@@ -18,11 +18,11 @@ I
 <br>
 
 ## Languages and Tools: 
-<img align="left" alt="C#" width="123px" height="35px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
-<img align="left" alt="C#" width="123px" height="35px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javabanner.png" />
-<img align="left" alt="C#" width="123px" height="35px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javascriptbanner.png" />
-<img align="left" alt="C#" width="123px" height="35px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/htmlbanner.png" />
-<img align="left" alt="C#" width="123px" height="35px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/cssbanner.png" />
+<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
+<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javabanner.png" />
+<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javascriptbanner.png" />
+<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/htmlbanner.png" />
+<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/cssbanner.png" />
 <br>
 <br>
 
