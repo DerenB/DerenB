@@ -11,7 +11,7 @@ I
 <br>
 
 ## Connections
-<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/linkedin2.png" /></a>
+<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/linkedin.png" /></a>
 <a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/stackoverflow.png" /></a>
 <a href="https://codepen.io/dbozer" target="_blank"><img align="left" alt="CodePen" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/codepen2.png" /></a>
 <br>
