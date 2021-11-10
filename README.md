@@ -11,9 +11,9 @@ I
 <br>
 
 ## Connections
-<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/linkedin3.png" /></a>
-<a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/stackoverflow.png" /></a>
-<a href="https://codepen.io/dbozer" target="_blank"><img align="left" alt="CodePen" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/codepen2.png" /></a>
+<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/linkedin4.png" /></a>
+<a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/stackoverflow2.png" /></a>
+<a href="https://codepen.io/dbozer" target="_blank"><img align="left" alt="CodePen" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/codepen3.png" /></a>
 <br>
 <br>
 
