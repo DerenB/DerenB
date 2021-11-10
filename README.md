@@ -11,18 +11,18 @@ I
 <br>
 
 ## Connections
-<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/linkedin4.png" /></a>
-<a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/stackoverflow2.png" /></a>
-<a href="https://codepen.io/dbozer" target="_blank"><img align="left" alt="CodePen" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/codepen3.png" /></a>
+<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/LinkedInBanner.png" /></a>
+<a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/StackoverflowBanner.png" /></a>
+<a href="https://codepen.io/dbozer" target="_blank"><img align="left" alt="CodePen" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/CodepenBanner.png" /></a>
 <br>
 <br>
 
 ## Languages and Tools: 
-<img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
-<img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javabanner.png" />
-<img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javascriptbanner.png" />
-<img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/htmlbanner.png" />
-<img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/cssbanner.png" />
+<img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/CSharpBanner.png" />
+<img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/JavaBanner.png" />
+<img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/JavascriptBanner.png" />
+<img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/HTMLBanner.png" />
+<img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/CSSBanner.png" />
 <br>
 <br>
 
