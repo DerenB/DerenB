@@ -13,6 +13,7 @@ I
 ## Connections
 <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/linkedin.png" /></a>
 <a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/stack.png" /></a>
+<a href="https://codepen.io/dbozer" target="_blank"><img align="left" alt="CodePen" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/codepen.png" /></a>
 <br>
 <br>
 
