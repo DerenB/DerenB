@@ -1,8 +1,8 @@
 
 ![Junior Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
 
-### Hello There, I am Deren Bozer
-#### Junior Developer
+# Hello There, I am Deren Bozer
+### Junior Developer
 
 I am enrolled at Eastern Michigan University studying Computer Science and will start the Graduate CS program in Winter 2022. 
 
