@@ -18,7 +18,7 @@ I
 <br>
 
 ## Languages and Tools: 
-<img align="left" alt="C#" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
+<img align="left" alt="C#" width="370px" height="105px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
 <img align="left" alt="C#" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/java.png" />
 <img align="left" alt="C#" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javascript.png" />
 <img align="left" alt="C#" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/html.png" />
