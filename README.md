@@ -10,8 +10,8 @@ I
 - 🌱 I’m currently learning ASP.NET 
 
 ## Connections
-<a target="_blank" href="https://www.linkedin.com/in/deren-bozer/"><img align="left" alt="LinkedIn" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/linkedin.png" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/11200351/deren-bozer"><img align="left" alt="StackOverFlow" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/stack.png" /></a>
+<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank"><img align="left" alt="LinkedIn" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/linkedin.png" /></a>
+<a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank"><img align="left" alt="StackOverFlow" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/stack.png" /></a>
 <br>
 
 
