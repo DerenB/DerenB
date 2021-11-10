@@ -4,7 +4,7 @@
 # Hello There, I am Deren Bozer
 ### Junior Developer & Student
 
-I 
+I g
 
 - 🔭 I’m currently working on C# 
 - 🌱 I’m currently learning ASP.NET 
