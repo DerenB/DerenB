@@ -7,6 +7,7 @@
 I 
 
 ## Skills: 
+[<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/csharp.png" />]
 * C# 
 * JAVA 
 * JS / HTML / CSS
