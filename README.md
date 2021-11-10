@@ -25,6 +25,11 @@ I g
 <img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/CSSBanner.png" />
 <br>
 <br>
+<a><img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/CSharpBanner.png" /></a>
+<img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/JavaBanner.png" />
+<img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/JavascriptBanner.png" />
+<img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/HTMLBanner.png" />
+<img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/CSSBanner.png" />
 
 ##
 
