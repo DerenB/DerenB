@@ -10,8 +10,8 @@ I
 - 🌱 I’m currently learning ASP.NET 
 
 ## Connections
-<a href="https://www.linkedin.com/in/deren-bozer/"><img align="left" alt="LinkedIn" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/linkedin.png" /></a>
-<a href="https://stackoverflow.com/users/11200351/deren-bozer"><img align="left" alt="StackOverFlow" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/stack.png" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/deren-bozer/"><img align="left" alt="LinkedIn" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/linkedin.png" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/11200351/deren-bozer"><img align="left" alt="StackOverFlow" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/stack.png" /></a>
 <br>
 
 
@@ -22,7 +22,7 @@ I
 <img align="left" alt="C#" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/html.png" />
 <img align="left" alt="C#" width="26px" height="26px" src="https://raw.githubusercontent.com/DerenB/DerenB/main/css.png" />
 <br>
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB)](https://github.com/anuraghazra/github-readme-stats)
 
