@@ -18,11 +18,11 @@ I
 <br>
 
 ## Languages and Tools: 
-<img align="left" alt="C#" width="25%" height="25%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
-<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javabanner.png" />
-<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javascriptbanner.png" />
-<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/htmlbanner.png" />
-<img align="left" alt="C#" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/cssbanner.png" />
+<img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/csharpbanner.png" />
+<img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javabanner.png" />
+<img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/javascriptbanner.png" />
+<img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/htmlbanner.png" />
+<img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Icons/cssbanner.png" />
 <br>
 <br>
 
