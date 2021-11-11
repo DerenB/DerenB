@@ -19,11 +19,21 @@ I g
 <br>
 
 ## Languages and Tools: 
-<a><img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSharpBanner.png" /></a>
-<img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/JavaBanner.png" />
-<img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/JavascriptBanner.png" />
-<img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/HTMLBanner.png" />
-<img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSSBanner.png" />
+<a href="https://github.com/DerenB/cSharpPractice" target="_blank">
+  <img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSharpBanner.png" />
+</a>
+<a href="https://github.com/DerenB/Java-Database-Class-Projects" target="_blank">
+  <img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/JavaBanner.png" />
+</a>
+<a href="https://github.com/DerenB/JS-Snippets" target="_blank">
+  <img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/JavascriptBanner.png" />
+</a>
+<a href="https://github.com/DerenB/CC-Project-1-Tribute" target="_blank">
+  <img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/HTMLBanner.png" />
+</a>
+<a href="https://github.com/DerenB/AC-fish-bugs" target="_blank">
+  <img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSSBanner.png" />
+</a>
 <br>
 <br>
 
