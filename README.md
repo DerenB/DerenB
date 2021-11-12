@@ -53,6 +53,9 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 
 ---
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
+
 <!--
 <a href="https://github.com/DerenB/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact" />
