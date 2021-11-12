@@ -15,7 +15,7 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 <br>
 
 ## Connections
-<p float="left">
+<p float="center">
   <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
     <img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/LinkedInBanner.png" />
   </a>
