@@ -15,7 +15,7 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 <br>
 
 ## Connections
-<p float="center">
+<p float="left">
   <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
     <img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/LinkedInBanner.png" />
   </a>
@@ -55,13 +55,13 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 ---
 <p align="center">
-  <img alt="TopLanguages" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact"/>
+  <img alt="TopLanguages" width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact"/>
 </p>
 <p align="center">
-  <img alt="StreakStats" width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
+  <img alt="StreakStats" width="500px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
 </p>
 <p align="center">
-  <img alt="Stats" width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
+  <img alt="Stats" width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
 </p>
   
 
