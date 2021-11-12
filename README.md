@@ -16,6 +16,7 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 <br>
 
+---
 ## Connections
 <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
   <img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/LinkedInBanner.png" />
@@ -32,6 +33,7 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 <br>
 <br>
 
+---
 ## Languages and Tools: 
 <a href="https://github.com/DerenB/cSharpPractice" target="_blank">
   <img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSharpBanner.png" />
@@ -51,6 +53,14 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 <br>
 <br>
 
+
+---
+<a href="https://github.com/DerenB/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact)](https://github.com/DerenB/github-readme-stats" />
+</a>
+<a href="https://github.com/DerenB/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB" />
+</a>
 
 ---
 
