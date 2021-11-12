@@ -53,21 +53,19 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 
 ---
+<!--
 <a href="https://github.com/DerenB/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact" />
 </a>
 <a href="https://github.com/DerenB/github-readme-stats">
   <img align="center" style="padding-left: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB" />
 </a>
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact)](https://github.com/DerenB/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DerenB)  
+
 
 ---
 
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact)](https://github.com/DerenB/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DerenB)  
--->
