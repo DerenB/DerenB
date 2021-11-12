@@ -7,7 +7,7 @@
 ** Page still being updated **
 
 I'm a student at Eastern Michigan University taking undergraduate computer science classes to prepare for graduate school starting Windter 2022. I previously graduated from EMU in 2016 with a BBA in Accounting. Since then I have been working in Accounting while learning programming .
-<ul>
+<ul style="list-style: none;">
   <li>🔹 I’m currently working on C# and ASP.NET</li>
   <li>🔹 I plan to learn about Blazor next</li>
 </ul>
