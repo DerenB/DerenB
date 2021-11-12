@@ -51,9 +51,9 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 
 ---
-<img alt="TopLanguages" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact"/>
-<img alt="StreakStats" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
-<img alt="Stats" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
+<img alt="TopLanguages" width="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact"/>
+<img alt="StreakStats" width="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
+<img alt="Stats" width="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
 
 <!--
 <a href="https://github.com/DerenB/github-readme-stats">
