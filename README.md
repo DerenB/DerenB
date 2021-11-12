@@ -53,7 +53,7 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 
 ---
-<div width="100%" height="300px">
+<div width="100%" height="3px">
   <a href="https://github.com/DerenB/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact" />
   </a>
