@@ -72,4 +72,5 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 
 ---
 ![Junior Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
+
 ---
