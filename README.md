@@ -56,20 +56,6 @@ I'm a student at Eastern Michigan University taking undergraduate computer scien
 <img alt="StreakStats" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
 <img alt="Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
 
-
-<!--
-<a href="https://github.com/DerenB/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact" />
-</a>
-<a href="https://github.com/DerenB/github-readme-stats">
-  <img align="center" style="padding-left: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact)](https://github.com/DerenB/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DerenB)  
--->
-
 ---
 ![Junior Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
 
