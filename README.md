@@ -6,7 +6,7 @@
 
 ** Page still being updated **
 
-I'm a student at Eastern Michigan University taking undergraduate computer science classes to prepare for graduate school starting Winter 2022. I previously graduated from EMU in 2016 with a BBA in Accounting. Since then I have been working in Accounting while learning programming .
+I'm a student at Eastern Michigan University taking undergraduate computer science classes to prepare for graduate school. Gradute school will start Winter 2022, with an expected graduation date of April 2024. I previously graduated from EMU in 2016 with a BBA in Accounting. Since then, I have been working in Accounting while learning programming.
 
 - 🔭 I’m currently working on C# and ASP.NET
 
