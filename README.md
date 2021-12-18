@@ -1,7 +1,7 @@
 
 ![Junior Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
 
-# Hello There, I am Deren Bozer
+# Hello There, I am Deren Bozer.
 ### Junior Developer & Student
 
 ** Page still being updated **
