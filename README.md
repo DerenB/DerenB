@@ -1,5 +1,8 @@
-
+<!--
 ![Junior Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
+-->
+
+![Matrix Animation](https://raw.githubusercontent.com/DerenB/DerenB/main/MatrixText3.gif)
 
 # Hello There, I am Deren Bozer.
 ### Junior Developer & Student
