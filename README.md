@@ -58,6 +58,6 @@ I am a Computer Science graduate student at Eastern Michigan University with a B
 <img alt="Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
 
 ---
-![Junior Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
+![web Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
 
 ---
