@@ -5,7 +5,7 @@
 ![Matrix Animation](https://raw.githubusercontent.com/DerenB/DerenB/main/MatrixRectangleRegular.gif)
 
 # Hello There, I am Deren Bozer.
-### Junior Developer & Student
+### Web Developer & Student
 
 I am a Computer Science graduate student at Eastern Michigan University with a BBA in Accounting. I took undergraduate Computer Science classes through junior level, earning a 3.64 GPA.
 
