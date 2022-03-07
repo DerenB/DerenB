@@ -9,9 +9,10 @@
 
 I am a Computer Science graduate student at Eastern Michigan University with a BBA in Accounting. I took undergraduate Computer Science classes through junior level, earning a 3.64 GPA.
 
-- 🔭 I’m currently working on C#, ASP.NET, Blazor, React.
-- 🤝 Next I plan on creating web apps with dotnet.
-- 🌱 In the future, I want to learn about dotnet Maui.
+- 🔭 I’m currently working on web development 
+- 🤝 Next I plan on creating a website using the MERN stack
+- 🌱 In the future, I want to learn about dotnet Maui 
+- ⚡ For fun I'd like to learn more about digital art and Unity game development
 
 <br>
 
