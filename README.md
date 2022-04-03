@@ -11,7 +11,7 @@ I am a Computer Science graduate student at Eastern Michigan University with a B
 
 - 🔭 I’m currently working on web development.
 - 🤝 Next I plan on creating a website using the MERN stack.
-- 🌱 In the future, I want to learn about dotnet Maui.
+- 🌱 In the future, I want to learn about dotnet Maui
 - ⚡ For fun I'd like to learn more about digital art and Unity game development
 
 <br>
