@@ -10,7 +10,7 @@
 I am a Computer Science graduate student at Eastern Michigan University with a BBA in Accounting. I took undergraduate Computer Science classes through junior level, earning a 3.64 GPA.
 
 - 🔭 I’m currently working on improving my web development knowledge by learning React.
-- 🤝 Next I plan on creating a website using the MERN stack.
+- 🤝 Next I plan on learning Node.js and MongoDB
 - 🌱 In the future, I want to learn about dotnet Maui and C# backend.
 - ⚡ For fun I'd like to learn more about digital art and game development in Unreal Engine.
 
@@ -18,6 +18,7 @@ I am a Computer Science graduate student at Eastern Michigan University with a B
 <a href="https://github.com/Deren-Web-Developement-Projects" target="_blank">
   <img alt="Web Dev Org" width="40%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/Banner-Full-Lined.png" />
 </a>
+- An organization I created to store all of my repos related to web development.
 
 <br>
 
