@@ -16,8 +16,9 @@ I am a Computer Science graduate student at Eastern Michigan University with a B
 
 ## Web Dev GitHub Organization 
 <a href="https://github.com/Deren-Web-Developement-Projects" target="_blank">
-  <img alt="Web Dev Org" width="40%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/Banner-Full-Lined.png" />
+  <img alt="Web Dev Org" width="40%" height="25%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/Banner-Full-Lined.png" />
 </a>
+
 ### An organization I created to store all of my repos related to web development.
 
 <br>
