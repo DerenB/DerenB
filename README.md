@@ -60,7 +60,7 @@ I am a Computer Science graduate student at Eastern Michigan University with a B
 <br>
 
 ---
-<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact&langs_count=6"/>
+<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact&langs_count=8"/>
 <img alt="StreakStats" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
 <img alt="Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
 
