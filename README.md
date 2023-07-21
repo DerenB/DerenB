@@ -5,12 +5,15 @@
 ![Matrix Animation](https://raw.githubusercontent.com/DerenB/DerenB/main/MatrixRectangleRegular.gif)
 
 # Hello There, I am Deren Bozer.
-### Computer Science Student
+
+### Education
 
 - I am a Computer Science and Accounting student at Eastern Michigan University.
 - I will receive my Bachelor of Science in Computer Science in December 2023.
 - I received my Bachelor of Business Administration in Accounting in December 2016.
 - My GPA during the Computer Science program is 3.50
+
+### Independent Studies
 
 - 🔭 I’m currently working on improving my web development knowledge by learning React.
 - 🤝 Next I plan on learning Node.js and MongoDB
