@@ -35,7 +35,7 @@
 
 ### Currently Utilizing
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,bootstrap,py,js,html,css,git,md,visualstudio,vscode&perline=6)]
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,bootstrap,py,js,html,css,git,md,visualstudio,vscode&perline=6)
 
 ### Some experience
 
