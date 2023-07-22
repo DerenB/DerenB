@@ -38,7 +38,7 @@
 ## LinkedIn
 
 - My LinkedIn page has details on my work and education history
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/deren-bozer/)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/deren-bozer/)
 
 <br>
 
