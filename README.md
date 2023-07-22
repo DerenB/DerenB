@@ -31,7 +31,7 @@
 - An <a href="https://github.com/Deren-Web-Development-Projects">organization</a> I created to store all of my repos related to web development.
 - Includes projects created with Blazor, React, and Static HTML/CSS/JS
 
-## LinkedIn
+## LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/deren-bozer/)
 
 <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
   <img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/LinkedInBanner.png" />
