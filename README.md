@@ -31,15 +31,17 @@
 
 <br>
 
-# Languages & Technology Currently Utilizing
+# Languages & Technology 
+
+### Currently Utilizing
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,bootstrap,py,js,html,css,git,md,visualstudio,vscode&perline=6)](https://skillicons.dev)
 
-# Languages & Technology with some experience
+### Some experience
 
 [![My Skills](https://skillicons.dev/icons?i=java,react,php,bash,cpp,unity&perline=6)](https://skillicons.dev)
 
-# Languages & Technology I want to learn more about
+### Want to learn more about
 
 [![My Skills](https://skillicons.dev/icons?i=c,azure,flask,postman,blender,unreal&perline=6)](https://skillicons.dev)
 
@@ -57,25 +59,6 @@
   <img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/StackoverflowBanner.png" />
 </a>
 
-<br>
-<br>
-
-## Languages and Tools:
-<a href="https://github.com/DerenB/JS-Snippets" target="_blank">
-  <img align="left" alt="Javascript" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/JavascriptBanner.png" />
-</a>
-<a href="https://github.com/DerenB/cSharpPractice" target="_blank">
-  <img align="left" alt="C#" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSharpBanner.png" />
-</a>
-<a href="https://github.com/DerenB/Java-Database-Class-Projects" target="_blank">
-  <img align="left" alt="Java" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/JavaBanner.png" />
-</a>
-<a href="https://github.com/DerenB/CC-Project-1-Tribute" target="_blank">
-  <img align="left" alt="HTML" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/HTMLBanner.png" />
-</a>
-<a href="https://github.com/DerenB/AC-fish-bugs" target="_blank">
-  <img align="left" alt="CSS" width="15%" height="15%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CSSBanner.png" />
-</a>
 <br>
 <br>
 
