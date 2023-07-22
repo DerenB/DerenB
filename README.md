@@ -24,6 +24,8 @@
 - Outside of work and school, I like woodworking and playing video games
 - One day I would like to create a video game using Unreal Engine and Blender
 
+<br>
+
 # Connections
 
 ## Web Dev GitHub Organization 
