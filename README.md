@@ -26,13 +26,22 @@
   <img alt="Web Dev Org" width="40%" height="25%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/Banner-Full-Lined.png" />
 </a>
 
-#### An <a href="https://github.com/Deren-Web-Development-Projects">organization</a> I created to store all of my repos related to web development.
+- An <a href="https://github.com/Deren-Web-Development-Projects">organization</a> I created to store all of my repos related to web development.
+- Includes projects created with Blazor, React, and Static HTML/CSS/JS
 
 <br>
 
-# Languages
+# Languages & Technology Currently Utilizing
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,bootstrap,py,js,html,css,git,md,visualstudio,vscode&perline=6)](https://skillicons.dev)
+
+# Languages & Technology with some experience
+
+[![My Skills](https://skillicons.dev/icons?i=java,react,php,bash,cpp,unity&perline=6)](https://skillicons.dev)
+
+# Languages & Technology I want to learn more about
+
+[![My Skills](https://skillicons.dev/icons?i=c,azure,flask,postman,blender,unreal&perline=6)](https://skillicons.dev)
 
 ## Connections
 <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
