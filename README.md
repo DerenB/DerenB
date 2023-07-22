@@ -6,7 +6,7 @@
 
 # Hello There, I am Deren Bozer.
 
-### Education
+### :classical_building: Education
 
 - I am a Computer Science and Accounting student at Eastern Michigan University.
 - I will receive my Bachelor of Science in Computer Science in December 2023.
@@ -33,8 +33,8 @@
 
 ## LinkedIn
 
+- My LinkedIn page has details on my work and education history
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/deren-bozer/)
-- My LinkedIn page details on my work and education history
 
 <br>
 
@@ -60,7 +60,6 @@
 ---
 <img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact&langs_count=8"/>
 <img alt="StreakStats" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
-<img alt="Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=derenb&show_icons=true&locale=en"/>
 
 ---
 ![web Developer](https://raw.githubusercontent.com/DerenB/DerenB/main/Banner_Picture.jpg)
