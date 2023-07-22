@@ -8,17 +8,21 @@
 
 ### :classical_building: Education
 
-- I am a Computer Science and Accounting student at Eastern Michigan University.
-- I will receive my Bachelor of Science in Computer Science in December 2023.
-- I received my Bachelor of Business Administration in Accounting in December 2016.
+- I am a Computer Science and Accounting student at Eastern Michigan University
+- I will receive my Bachelor of Science in Computer Science in December 2023
+- I received my Bachelor of Business Administration in Accounting in December 2016
 - My GPA during the Computer Science program is 3.50
 
-### Independent Studies
+### :dna: Independent Studies
 
-- 🔭 I’m currently working on improving my web development knowledge by learning React.
-- 🤝 Next I plan on learning Node.js and MongoDB
-- 🌱 In the future, I want to learn about dotnet Maui and C# backend.
-- ⚡ For fun I'd like to learn more about digital art and game development in Unreal Engine.
+- I am currently building a web portal using Blazor Server for my coworkers to query an internal database
+- To help build the project, I am watch tutorials from "IAmTimCorey"
+- In the future, I want to practice more with Python and Matplotlib to apply statistics 
+
+### :hammer_and_wrench: For Fun
+
+- Outside of work and school, I like woodworking and playing video games
+- One day I would like to create a video game using Unreal Engine and Blender
 
 # Connections
 
