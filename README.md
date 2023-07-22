@@ -20,7 +20,8 @@
 - 🌱 In the future, I want to learn about dotnet Maui and C# backend.
 - ⚡ For fun I'd like to learn more about digital art and game development in Unreal Engine.
 
-## Web Dev GitHub Organization 
+# Web Dev GitHub Organization 
+
 <a href="https://github.com/Deren-Web-Development-Projects" target="_blank">
   <img alt="Web Dev Org" width="40%" height="25%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/Banner-Full-Lined.png" />
 </a>
@@ -28,6 +29,10 @@
 #### An <a href="https://github.com/Deren-Web-Development-Projects">organization</a> I created to store all of my repos related to web development.
 
 <br>
+
+# Languages
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Connections
 <a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
