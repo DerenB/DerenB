@@ -20,7 +20,9 @@
 - 🌱 In the future, I want to learn about dotnet Maui and C# backend.
 - ⚡ For fun I'd like to learn more about digital art and game development in Unreal Engine.
 
-# Web Dev GitHub Organization 
+# Connections
+
+## Web Dev GitHub Organization 
 
 <a href="https://github.com/Deren-Web-Development-Projects" target="_blank">
   <img alt="Web Dev Org" width="40%" height="25%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/Banner-Full-Lined.png" />
@@ -28,6 +30,12 @@
 
 - An <a href="https://github.com/Deren-Web-Development-Projects">organization</a> I created to store all of my repos related to web development.
 - Includes projects created with Blazor, React, and Static HTML/CSS/JS
+
+## LinkedIn
+
+<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
+  <img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/LinkedInBanner.png" />
+</a>
 
 <br>
 
@@ -46,20 +54,6 @@
 ![My Skills](https://skillicons.dev/icons?i=c,azure,flask,postman,blender,unreal&perline=6)
 
 - Icons from: [Skill Icons](https://skillicons.dev)
-
-## Connections
-<a href="https://www.linkedin.com/in/deren-bozer/" target="_blank">
-  <img align="left" alt="LinkedIn" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/LinkedInBanner.png" />
-</a>
-<a href="https://www.codewars.com/users/DerenB" target="_blank">
-  <img align="left" alt="CodeWars" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CodeWarsBanner.png" />
-</a>
-<a href="https://codepen.io/dbozer" target="_blank">
-  <img align="left" alt="CodePen" width="20%" height="20%" src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/CodepenBanner.png" />
-</a>
-<a href="https://stackoverflow.com/users/11200351/deren-bozer" target="_blank">
-  <img align="left" alt="StackOverFlow" width="20%" height="20%"  src="https://raw.githubusercontent.com/DerenB/DerenB/main/Banners_Icons/StackoverflowBanner.png" />
-</a>
 
 <br>
 <br>
