@@ -39,7 +39,7 @@
 
 ## LinkedIn
 
-- My LinkedIn page has details on my work and education history <br>
+- My LinkedIn page has details on my work and education history <br> <br>
 [![LinkedInImage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deren-bozer/)
 
 <br>
