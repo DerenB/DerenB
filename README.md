@@ -39,10 +39,8 @@
 
 ## LinkedIn
 
-- My LinkedIn page has details on my work and education history
-- ![LinkedInImage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [![LinkedInImage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deren-bozer/)
-- [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/deren-bozer/)
+- My LinkedIn page has details on my work and education history <br>
+[![LinkedInImage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deren-bozer/)
 
 <br>
 
