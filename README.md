@@ -8,11 +8,11 @@
 
 
 
-### :dna: Independent Studies
+### :computer: Current Projects
 
-- I am currently building a web portal using Blazor Server for my coworkers to query an internal database
-- To help build the project, I am watch tutorials from "IAmTimCorey"
-- In the future, I want to practice more with Python and Matplotlib to apply statistics
+- Using Python, Folium, and GeoJSON data to map Michigan data
+- Building a Website with FastAPI, React, and MongoDB
+- Getting back into studying Godot and Blender for making games
 
 ### :classical_building: Education
 
