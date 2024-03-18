@@ -6,23 +6,27 @@
 
 # Hello There, I am Deren Bozer.
 
+
+
+### :dna: Independent Studies
+
+- I am currently building a web portal using Blazor Server for my coworkers to query an internal database
+- To help build the project, I am watch tutorials from "IAmTimCorey"
+- In the future, I want to practice more with Python and Matplotlib to apply statistics
+
 ### :classical_building: Education
+
+
 
 - I am a Computer Science and Accounting student at Eastern Michigan University
 - I will receive my Bachelor of Science in Computer Science in December 2023
 - I received my Bachelor of Business Administration in Accounting in December 2016
 - My GPA during the Computer Science program is 3.50
 
-### :dna: Independent Studies
+### :tent: For Fun
 
-- I am currently building a web portal using Blazor Server for my coworkers to query an internal database
-- To help build the project, I am watch tutorials from "IAmTimCorey"
-- In the future, I want to practice more with Python and Matplotlib to apply statistics 
-
-### :hammer_and_wrench: For Fun
-
-- Outside of work and school, I like woodworking and playing video games
-- One day I would like to create a video game using Unreal Engine or Godot along with Blender
+- Outside of work and coding, I like woodworking and playing video games.
+- I am also slowly making plans towards going camping more often.
 
 <br>
 
