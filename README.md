@@ -16,12 +16,9 @@
 
 ### :classical_building: Education
 
-
-
-- I am a Computer Science and Accounting student at Eastern Michigan University
-- I will receive my Bachelor of Science in Computer Science in December 2023
-- I received my Bachelor of Business Administration in Accounting in December 2016
-- My GPA during the Computer Science program is 3.50
+- BS in Computer Science and a BBA in Accounting
+- Completed Computer Science 12/2023, Graduated Cum Laude with a 3.52 GPA
+- Completed Accounting 12/2016 
 
 ### :tent: For Fun
 
