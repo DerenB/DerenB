@@ -22,7 +22,7 @@
 ### :hammer_and_wrench: For Fun
 
 - Outside of work and school, I like woodworking and playing video games
-- One day I would like to create a video game using Unreal Engine and Blender
+- One day I would like to create a video game using Unreal Engine or Godot along with Blender
 
 <br>
 
