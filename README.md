@@ -54,7 +54,7 @@
 
 # GitHub Stats
 
-<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact&langs_count=8"/>
+<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&layout=compact&langs_count=10"/>
 <img alt="StreakStats" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerenB"/>
 
 ---
