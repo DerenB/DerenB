@@ -43,7 +43,7 @@
 
 ### Created Projects With
 
-![My Skills](https://skillicons.dev/icons?i=fastapi,flask,cs,dotnet,java,js,php,mongodb,mysql,react,tailwind,bootstrap,css,html,blender,heroku&perline=6)
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask,cs,dotnet,java,js,php,mongodb,mysql,react,tailwind,bootstrap&perline=6)
 
 ### Some experience
 
