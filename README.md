@@ -39,15 +39,15 @@
 
 ### Currently Utilizing
 
-![My Skills](https://skillicons.dev/icons?i=swift,figma,py,md,github,vscode&perline=6)
+![My Skills](https://skillicons.dev/icons?i=swift,figma,py,vscode,md,github&perline=6)
 
 ### Created Projects With
 
-![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,blender,vscode&perline=6)
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask,cs,dotnet,java,js,php,mongodb,mysql,react,tailwind,bootstrap,css,html,blender,heroku&perline=6)
 
 ### Some experience
 
-
+![My Skills](https://skillicons.dev/icons?i=docker,django,cpp,c,sqlite,unity&perline=6)
 
 - Icons from: [Skill Icons](https://skillicons.dev)
 
