@@ -10,9 +10,10 @@
 
 ### :computer: Current Projects
 
-- Using Python, Folium, and GeoJSON data to map Michigan data
-- Building a Website with FastAPI, React, and MongoDB
-- Getting back into studying Godot and Blender for making games
+- Learning iOS development, to be used at work.
+- Creating iOS practice projects using Programmatic UI
+- Watching videos on Figma and UI/UX design for future projects
+- Going to launch a portfolio website soon:tm:
 
 ### :classical_building: Education
 
@@ -22,8 +23,8 @@
 
 ### :tent: For Fun
 
-- Outside of work and coding, I like woodworking and playing video games.
-- I am also slowly making plans towards going camping more often.
+- Outside of work and coding, I like playing video games and being outside.
+- I am designing a plywood sleeping platform to go truck camping with.
 
 <br>
 
