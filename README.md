@@ -23,8 +23,8 @@
 
 ### :tent: For Fun
 
-- Outside of work and coding, I like playing video games and being outside.
-- I am designing a plywood sleeping platform to go truck camping with.
+- Outside of work and coding, I like playing video games and being outside
+- I am designing a plywood sleeping platform to go truck camping with
 
 <br>
 
