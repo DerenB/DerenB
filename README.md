@@ -10,7 +10,7 @@
 
 ### :computer: Current Projects
 
-- Learning iOS development, to be used at work
+- Learning iOS development, to be used at work.
 - Creating iOS practice projects using Programmatic UI
 - Watching videos on Figma and UI/UX design for future projects
 - Going to launch a portfolio website soon :tm:
