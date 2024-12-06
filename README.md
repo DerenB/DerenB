@@ -33,7 +33,7 @@
 
 ### Currently Utilizing
 
-![My Skills](https://skillicons.dev/icons?i=py,fastapi,react,js&perline=6)
+![My Skills](https://skillicons.dev/icons?i=py,js,fastapi,react&perline=6)
 
 ### Created Projects With
 
