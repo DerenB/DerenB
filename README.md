@@ -33,11 +33,11 @@
 
 ### Currently Utilizing
 
-![My Skills](https://skillicons.dev/icons?i=swift,figma,py,fastapi,react,js&perline=6)
+![My Skills](https://skillicons.dev/icons?i=py,fastapi,react,js&perline=6)
 
 ### Created Projects With
 
-![My Skills](https://skillicons.dev/icons?i=flask,cs,dotnet,java,php,mysql,mongodb,tailwind,bootstrap,vscode,md,github&perline=6)
+![My Skills](https://skillicons.dev/icons?i=flask,cs,dotnet,swift,figma,java,php,mysql,mongodb,tailwind,bootstrap,vscode&perline=6)
 
 ### Some experience
 
