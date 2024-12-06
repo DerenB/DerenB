@@ -10,10 +10,8 @@
 
 ### :computer: Current Projects
 
-- Learning iOS development, to be used at work.
-- Creating iOS practice projects using Programmatic UI
-- Watching videos on Figma and UI/UX design for future projects
-- Going to launch a portfolio website soon :tm:
+- Creating a web page using FastAPI and React
+- Watching courses on Unreal to prepare for a game project
 
 ### :classical_building: Education
 
@@ -24,7 +22,7 @@
 ### :tent: For Fun
 
 - Outside of work and coding, I like playing video games and being outside
-- I am designing a plywood sleeping platform to go truck camping with
+- I do woodworking when I can to get away from the computer
 
 <br>
 
