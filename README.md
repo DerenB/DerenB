@@ -20,6 +20,11 @@
 
 <br>
 
+### :headphones: Social Media Links
+
+- [My Portfolio page](https://portfolio-dab.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/deren-bozer/)
+
 ### :computer: Current Projects
 
 - Creating a web page using FastAPI and React
