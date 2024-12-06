@@ -6,7 +6,19 @@
 
 # Hello There, I am Deren Bozer.
 
+## Portfolio Website
 
+- The Portofolio page that I created. <br> <br>
+[Website](https://portfolio-dab.vercel.app/)
+
+<br>
+
+## LinkedIn
+
+- My LinkedIn page has details on my work and education history. <br> <br>
+[![LinkedInImage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deren-bozer/)
+
+<br>
 
 ### :computer: Current Projects
 
@@ -23,13 +35,6 @@
 
 - Outside of work and coding, I like playing video games and being outside
 - I do woodworking when I can to get away from the computer
-
-<br>
-
-## LinkedIn
-
-- My LinkedIn page has details on my work and education history. <br> <br>
-[![LinkedInImage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deren-bozer/)
 
 <br>
 
