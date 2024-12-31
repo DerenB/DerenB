@@ -10,7 +10,7 @@
 
 - [My Portfolio page](https://portfolio-dab.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/deren-bozer/)
-- [Leet Code](https://leetcode.com/u/DabProgramming/) (new)
+- [Leet Code](https://leetcode.com/u/DabProgramming/) (new account)
 
 ### :computer: Current Projects
 
