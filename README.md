@@ -15,7 +15,7 @@
 ### :computer: Current Projects
 
 - Creating a web page using FastAPI and React
-- Watching courses on Unreal to prepare for a game project
+- Watching courses on Unreal to prepare for a game project.
 
 ### :classical_building: Education
 
