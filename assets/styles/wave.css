@@ -18,7 +18,7 @@ section .waveDark {
     width: 100%;
     height: 100px;
     rotate: 180deg;
-    background: url('wave2.png');
+    background: url('../public/wave2.png');
     background-size: 1000px 100px;
 }
 
@@ -29,7 +29,7 @@ section .waveLight {
     width: 100%;
     height: 100px;
     rotate: 180deg;
-    background: url('wave3.png');
+    background: url('../public/wave3.png');
     background-size: 1000px 100px;
 }
 
