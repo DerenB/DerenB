@@ -1,0 +1,20 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.output {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 25px;
+}
+
+.output {
+    color: #578c7e;
+    -webkit-text-fill-color: #578c7e; 
+    -webkit-text-stroke: 1px black;
+    font-size: 54px;
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-style: normal;
+}
