@@ -1,3 +1,10 @@
+<!--
+    Created January 2025
+    
+    Inspired by: https://github.com/daria-stanilevici/daria-stanilevici
+-->
+
+
 <!-- Top Banner, source: https://capsule-render.vercel.app/ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=578c7e&t&section=header" alt="header"/> 
 
@@ -68,12 +75,6 @@ Motivated professional transitioning from accounting to software development, wi
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-
-
-
-<img alt="" src="" />
-
 </p>
 
 
