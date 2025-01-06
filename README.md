@@ -84,10 +84,11 @@ Motivated professional transitioning from accounting to software development, wi
 - Bachelor of Science in Computer Science, Graduated 12/2023 Cum Laude
 - Bachelor of Business Administration in Accounting, Graduated 12/2016
 
-### Current Projects
+### Current Goals
 
-- Add
-- Add
+- Improving my knowledge of React and JavaScript 
+- Learning C++ to possibly make a game in Unreal Engine
+- Going to research Rust as a possible alternative to C++
 
 ### Hobbies
 
