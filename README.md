@@ -105,7 +105,7 @@ Motivated professional transitioning from accounting to software development, wi
   <img height=200 align="center" src="https://github-readme-streak-stats-five-bice.vercel.app?user=DerenB&theme=vue-dark&card_width=513" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&langs_count=8&layout=compact&theme=vue-dark&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&langs_count=8&layout=compact&theme=vue-dark&card_width=501" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DerenB&hide=contribs&show_icons=true&theme=vue-dark&rank_icon=github&card_width=447" />
