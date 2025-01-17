@@ -101,8 +101,9 @@ Motivated professional transitioning from accounting to software development, wi
 <!-- GitHub Streak, source: https://github.com/DenverCoder1/github-readme-streak-stats -->
 ### Stats & Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DerenB)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats-five-bice.vercel.app?user=DerenB&theme=vue-dark&card_width=513" />
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerenB&langs_count=8&layout=compact&theme=vue-dark&card_width=500" />
 </a>
