@@ -36,7 +36,7 @@
 ### Objective
 
 <p>
-Motivated professional transitioning from accounting to software development, with project experience in Python, JavaScript, and SQL. Seeking a software development position to apply technical skills and analytical expertise in building efficient, scalable solutions while leveraging a strong foundation in data-driven decision-making.
+Motivated professional transitioning from accounting to software development, with project experience in Python, JavaScript, and SQL. Seeking a software development position to apply technical skills and analytical expertise in building efficient, scalable solutions while leveraging a strong foundation in data-driven decision-making
 </p>
 
 
