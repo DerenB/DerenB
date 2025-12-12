@@ -86,14 +86,14 @@ Motivated professional transitioning from accounting to software development, wi
 
 ### Current Goals
 
-- Improving my knowledge of React and JavaScript 
-- Learning C++ to possibly make a game in Unreal Engine
-- Going to research Rust as a possible alternative to C++
+- Working primarily with .NET and SQL, with the occasional Python
+- Following tutorials on Docker and ASP.NET to eventually build websites
+- Expanding my knowledge of React and JavaScript
 
 ### Hobbies
 
-- Practicing woodworking to get time away from computers and screens
-- Being outdoors, camping and road-tripping
+- Learning Blender and ProCreate for artistic output
+- Practicing woodworking for time away from computers and screens
 
 
 
